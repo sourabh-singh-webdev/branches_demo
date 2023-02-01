@@ -1,1 +1,1 @@
-console.log('i am of feature');
+log('i am of feature');
