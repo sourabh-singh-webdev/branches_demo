@@ -1,1 +1,4 @@
-console.log('i am testing file in master');
+
+
+console.log('i am of feature');
+>>>>>>> feature1
