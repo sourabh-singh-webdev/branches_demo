@@ -1,4 +1,4 @@
 
 
 console.log('i am of feature');
->>>>>>> feature1
+console.log('i am here');
